@@ -8,3 +8,4 @@ if (html.classList.contains("light")){
   img.setAttribute("src", "./assets/avatar.png")
 }
 }
+
